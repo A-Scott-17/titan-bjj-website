@@ -1,0 +1,130 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "7e2030c6cee97878",
+      "kind": "stylesheet",
+      "name": "mobile-app-invite-banner.css",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/7e2030c6cee97878.css",
+      "url": "https://static.parastorage.com/unpkg-semver/mobile-app-invite-banner/mobile-app-invite-banner.css"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "e79192a9b7a17cfc",
+      "kind": "image",
+      "name": "Facebook.png",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/e79192a9b7a17cfc.png",
+      "url": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Facebook.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "ca3a89f68bd7a669",
+      "kind": "image",
+      "name": "Instagram.png",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/ca3a89f68bd7a669.png",
+      "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Instagram.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "221a5355733b5ccc",
+      "kind": "image",
+      "name": "6923a8_30c157ee09f44f46b72b6eee8102b8b2~mv2.jpeg",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/221a5355733b5ccc.jpeg",
+      "url": "https://static.wixstatic.com/media/6923a8_30c157ee09f44f46b72b6eee8102b8b2~mv2.jpeg/v1/fill/w_63,h_84,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/6923a8_30c157ee09f44f46b72b6eee8102b8b2~mv2.jpeg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "89640c65a908d1bf",
+      "kind": "image",
+      "name": "d3ee8f_a21cd4b9e8c0499fb0a2f235b6b6d9b0~mv2.png",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/89640c65a908d1bf.png",
+      "url": "https://static.wixstatic.com/media/d3ee8f_a21cd4b9e8c0499fb0a2f235b6b6d9b0~mv2.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d3ee8f_a21cd4b9e8c0499fb0a2f235b6b6d9b0~mv2.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "4f50d9d7b114f27d",
+      "kind": "image",
+      "name": "6923a8_0ab82597f6ee44e29605b258cff7c08a~mv2.jpeg",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/4f50d9d7b114f27d.jpeg",
+      "url": "https://static.wixstatic.com/media/6923a8_0ab82597f6ee44e29605b258cff7c08a~mv2.jpeg/v1/fill/w_113,h_150,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/6923a8_0ab82597f6ee44e29605b258cff7c08a~mv2.jpeg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "cc9642794b16d51b",
+      "kind": "image",
+      "name": "noah%20and%20dan.jpeg",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/cc9642794b16d51b.jpeg",
+      "url": "https://static.wixstatic.com/media/6923a8_cb8ba2eca0e440babcdd6c493252e42f~mv2.jpeg/v1/fill/w_920,h_1120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/noah%20and%20dan.jpeg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "91aaba75f22881c7",
+      "kind": "image",
+      "name": "6923a8_30c157ee09f44f46b72b6eee8102b8b2~mv2.jpeg",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/91aaba75f22881c7.jpeg",
+      "url": "https://static.wixstatic.com/media/6923a8_30c157ee09f44f46b72b6eee8102b8b2~mv2.jpeg/v1/fill/w_1470,h_840,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6923a8_30c157ee09f44f46b72b6eee8102b8b2~mv2.jpeg"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "079f9a2803e51406",
+      "kind": "image",
+      "name": "panorama",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/079f9a2803e51406",
+      "url": "https://frog.wix.com/panorama?src=11&evid=114700&sessionId=7badf705-dce7-4375-ab4c-8a6e56beeee0&platform=viewer&batchLength=100&batchSize=67388&batchItems=INFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+runThunderbolt-client+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+component_loader+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+thunderbolt-components-registry%2Fclient_download+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+component_loader+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+load_environment+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+load_environment+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+load_renderer+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadSiteFeatures_renderFeaturesOnly+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadSiteFeatures+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+thunderbolt-components-registry%2Fclient_download+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+createComponentsRegistryCSR+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+create_registry_viewer_client+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+create_registry_viewer_client+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+createComponentsRegistryCSR+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadSiteFeatures_renderFeaturesOnly+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadMasterPageFeaturesConfigs+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+buildLogger+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+execute-thunderbolt-features+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+site-assets-thunderbolt-features+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+fetchClientCss+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+fetchClientCss+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadSiteFeatures+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+cdn-hit-google-thunderbolt-features+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+site-assets-thunderbolt-features+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+execute-thunderbolt-features+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadMasterPageFeaturesConfigs+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadDynamicModel+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadDynamicModel+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+load_renderer+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+tb_client+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+componentsLibraries+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+componentsLibraries+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+componentLoaders+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+componentLoaders+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+container_get_thunderbolt+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+container_get_thunderbolt+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+thunderbolt_ready+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+features_appWillMount+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+structureAPI_addShellStructure+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_PageMountUnmount+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_DynamicStructureContainer+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_DivWithChildren+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+router_navigate+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+init_page+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+page_reflector+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+execute-thunderbolt-features+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+site-assets-thunderbolt-features+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+fetchClientCss+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+fetchClientCss+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadComponents-masterPage+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_pageMountUnmountSubscriber+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_pageTransitionsHandler+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_codeEmbed+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_platform+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_codeEmbed+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+platform+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+cdn-hit-google-thunderbolt-features+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+site-assets-thunderbolt-features+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_PageMountUnmount+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_DynamicStructureContainer+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_DivWithChildren+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+structureAPI_addShellStructure+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+execute-thunderbolt-features+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+loadComponents-c1dmp+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_MasterPage+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_HeaderContainer_DefaultScreen+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_PagesContainer+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_PageGroup+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_FooterContainer_DefaultScreen+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_SkipToContentButton+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_Anchor+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_BackgroundGroup+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_Page_TransparentPageSkin+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_PageBackground+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+page_reflector+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_pageMountUnmountSubscriber+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+appWillLoadPage_pageTransitionsHandler+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+platform+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentIdsRegistryLoader+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentIdsRegistryLoader+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_pageWillMountPropsExtender+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_pageWillMountPropsExtender+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentWillMount+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentWillMount+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_PageReflector+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_seo-page+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_seo-page+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentIdsRegistryLoader+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentIdsRegistryLoader+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_pageWillMountPropsExtender+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_pageWillMountPropsExtender+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentWillMount+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+tpa_iframe_load+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_componentWillMount+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_triggersAndReactions+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_triggersAndReactions+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+pageWillMount_PageReflector+START%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_SkipToContentButton+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_MasterPage+FINISH%2CINFO%7Ccom.wixpress.html-client.wix-thunderbolt%7Cthunderbolt%7CPanorama+Load_Component_Module%3A_PagesContainer+FINISH&_=1788272687616"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "ff37026e333c8c30",
+      "kind": "image",
+      "name": "18353989481",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/ff37026e333c8c30",
+      "url": "https://www.google.com/pagead/1p-user-list/18353989481/?random=1788272688206&cv=11&fst=1788271200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68s1h1za200xec&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616986~115938465~115938468~118131810~118897920~118897930~120385422&u_w=1280&u_h=800&url=https%3A%2F%2Fwww.titanjiujitsusummerville.com%2F&rcb=18&frm=0&tiba=Jiujitsu%20Academy%20in%20Summerville%20%7C%20Titan%20Jiujitsu%20LLC&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=340304762.1787152692&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&dclk_oo=1&cid=CAQSyAEAQM4h3GPuwtRM2s1lHkJIGN7ESdAVWt2maW9NIXwsLeuzCce2T2dbwcPfLeO6eg7MjPXP14YEhgPBtD_NBmRbbhM00NsvspMYHIFMpZ17VJiiwa-eQO-z5mUJmkvxD1HyMNfKuIqKAyS6tX46oFoe_kDBRFBeQnlAj3NFVVd5ixka7lKW5o7_lrD7fPRBns4wmcwiBZUqkoLs4NuSPAyg4qelf-RlExwnhVgLhQIMIpxL7olHn4uVa1P78R6c7Wfc5WJDNQjOIQ&random=1733042552&rmt_tld=0&ipr=y"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4ce8dcd476357c29",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/4ce8dcd476357c29.svg",
+      "url": "inline-svg:4ce8dcd476357c29"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b687bd3def55767e",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\alexe\\AppData\\Local\\Temp/browser-use/assets/3040f664-088d-470f-afdb-4397a7693378/b687bd3def55767e.svg",
+      "url": "inline-svg:b687bd3def55767e"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "eb8fea5fd5864c86",
+      "name": "open%20sans.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at value (https://www.titanjiujitsusummerville.com/:92:5834)\n    at eX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.parastorage.com/fonts/v2/e59e6f5c-7ac5-47cf-8fe5-22ee5f11aa42/v1/open%20sans.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "dee3b15eb85c2c0a",
+      "name": "dinneuzeitgroteskltw01-_812426.latin.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at value (https://www.titanjiujitsusummerville.com/:92:5834)\n    at eX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.parastorage.com/fonts/v2/b46aabec-b529-45a8-a0fe-2abaf6daf369/v1/dinneuzeitgroteskltw01-_812426.latin.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "328d7eb6d22b6299",
+      "name": "din-next-w01-light.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at value (https://www.titanjiujitsusummerville.com/:92:5834)\n    at eX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "8dbd1a31a1c4e924",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=953356097774165&ev=PageView&dl=https%3A%2F%2Fwww.titanjiujitsusummerville.com%2F&rl=&if=false&ts=1788272687808&iw=false&sw=1280&sh=800&cud[external_id]=%23%23**%23*%23%23-**%23%23-%23%23%23%23-%23**%23-%23*%23%23%23%23%23*%23%23*%23&ncud[external_id]=%23%23**%23*%23%23-**%23%23-%23%23%23%23-%23**%23-%23*%23%23%23%23%23*%23%23*%23&ud[external_id]=a7be3a20449ef44957c52107e38ff4c73952f26c421edd74779d42f05c7894e6&aud[external_id]=a7be3a20449ef44957c52107e38ff4c73952f26c421edd74779d42f05c7894e6&v=2.9.390&r=stable&a=plwix&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1787152691935.419459889531067213&ler=empty&cdl=API_unavailable&pmd[title]=Jiujitsu%20Academy%20in%20Summerville%20%7C%20Titan%20Jiujitsu%20LLC&pmd[locale]=en&pmd[description]=Train%20at%20a%20family-friendly%20jiujitsu%20academy%20at%20Titan%20Jiujitsu%20LLC%20in%20Summerville.%20Book%20your%20free%20trial%20class%20today.&plt=328.30000001192093&iss=1&imft=1&tz=-240&it=1788272687779&coo=false&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&rqm=GET"
+    }
+  ]
+}
