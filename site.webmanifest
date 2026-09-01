@@ -1,0 +1,10 @@
+{
+  "name": "Titan Jiujitsu",
+  "short_name": "Titan BJJ",
+  "description": "Jiu-jitsu classes for kids, teens, and adults in Summerville, South Carolina.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061424",
+  "theme_color": "#061424",
+  "icons": [{"src":"assets/titan-knight-icon.png","sizes":"1024x1024","type":"image/png","purpose":"any maskable"}]
+}
