@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Titan Brazilian Jiu-Jitsu offers kids BJJ, teen, and adult beginner BJJ classes in Summerville, South Carolina. Start with a free trial class." />
-    <meta name="author" content="Alex Scott" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://www.titanjiujitsusummerville.com/" />
     <meta property="og:type" content="website" />
@@ -29,7 +28,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css?v=launch-20260902" />
-    <!-- Site development: Alex Scott -->
+    <link rel="stylesheet" href="fixes.css?v=20260902" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -178,7 +177,7 @@
         <div class="container">
           <div class="section-heading split-heading"><div><p class="eyebrow">THE TITAN LEADER TEAM</p><h2>Experience with<br />purpose.</h2></div><p>Disciplined coaching, real mentorship, and a team-first culture for beginners, competitors, kids, teens, and adults.</p></div>
           <div class="leader-grid">
-            <article class="leader-card"><img src="assets/titan-community.avif" alt="Ron Cooper, Titan Jiujitsu owner and lead instructor" width="900" height="1010" loading="lazy" decoding="async" /><div><p class="card-label">OWNER / LEAD INSTRUCTOR · PURPLE BELT</p><h3>Ron Cooper</h3><p>A 20-year United States Air Force veteran with more than eight years of Brazilian Jiu-Jitsu training, Ron brings discipline, leadership, and camaraderie to every class.</p></div></article>
+            <article class="leader-card leader-card-ron"><img src="assets/titan-knight-logo.jpeg" alt="Titan Jiujitsu knight emblem" width="900" height="1010" loading="lazy" decoding="async" /><div><p class="card-label">OWNER / LEAD INSTRUCTOR · PURPLE BELT</p><h3>Ron Cooper</h3><p>A 20-year United States Air Force veteran with more than eight years of Brazilian Jiu-Jitsu training, Ron brings discipline, leadership, and camaraderie to every class.</p></div></article>
             <article class="leader-card"><img src="assets/travis-matthews.avif" alt="Travis Matthews, Tiny Titans coach" width="900" height="1125" loading="lazy" decoding="async" /><div><p class="card-label">TINY TITANS COACH · BLUE BELT</p><h3>Travis Matthews</h3><p>Travis brings a Muay Thai background and a passion for helping students recognize their potential, build confidence, and work toward personal goals.</p></div></article>
             <article class="leader-card"><img src="assets/dan-cafferky.avif" alt="Dan Cafferky, Medium Titans coach" width="900" height="1010" loading="lazy" decoding="async" /><div><p class="card-label">MEDIUM TITANS COACH · BLUE BELT</p><h3>Dan Cafferky</h3><p>A Summerville business owner, U.S. Navy veteran, and dedicated youth coach, Dan brings leadership and a passion for mentorship to the mats.</p></div></article>
           </div>
@@ -186,7 +185,7 @@
       </section>
 
       <section class="section social-feed" id="instagram">
-        <div class="container"><div class="section-heading split-heading"><div><p class="eyebrow">FOLLOW THE JOURNEY</p><h2>Life at<br />Titan.</h2></div><p>New mat moments, milestones, and Titan community updates straight from Instagram.</p></div><div class="instagram-feed" aria-live="polite"><a class="instagram-empty" href="https://www.instagram.com/titan_jiujitsu_llc/" target="_blank" rel="noreferrer">Follow @titan_jiujitsu_llc on Instagram <span>↗</span></a></div></div>
+          <div class="container"><div class="section-heading split-heading"><div><p class="eyebrow">FOLLOW THE JOURNEY</p><h2>Life at<br />Titan.</h2></div><p>See Titan’s latest mat moments, milestones, and community updates on Instagram.</p></div><div class="instagram-feed" aria-live="polite"><a class="instagram-empty" href="https://www.instagram.com/titan_jiujitsu_llc/" target="_blank" rel="noreferrer">Follow @titan_jiujitsu_llc on Instagram <span>↗</span></a></div></div>
       </section>
 
       <section class="section schedule" id="schedule">
@@ -199,9 +198,9 @@
             <div class="schedule-note"><span class="schedule-number">01</span><p>Come as you are. We’ll help you find the class that fits.</p><a class="button button-dark" href="#trial">Book a free trial</a></div>
             <div class="schedule-table">
               <div class="schedule-row schedule-head"><span>PROGRAM</span><span>GI</span><span>NO-GI</span></div>
-              <div class="schedule-row"><strong>Tiny Titans <small>ages 5–7</small></strong><span>Monday · 5:00–5:50 PM</span><span>Wednesday · 5:00–5:50 PM</span></div>
-              <div class="schedule-row"><strong>Medium Titans <small>ages 8+</small></strong><span>Tuesday &amp; Thursday · 6:00–7:00 PM</span><span>Wednesday · 6:00–7:00 PM</span></div>
-              <div class="schedule-row"><strong>Towering Titans <small>teens &amp; adults</small></strong><span>Tuesday &amp; Thursday · 7:00–8:00 PM</span><span>Wednesday · 7:00–8:00 PM</span></div>
+              <div class="schedule-row"><strong>Tiny Titans <small>ages 5–7</small></strong><span><b class="session-label">Gi</b>Monday · 5:00–5:50 PM</span><span><b class="session-label">No-Gi</b>Wednesday · 5:00–5:50 PM</span></div>
+              <div class="schedule-row"><strong>Medium Titans <small>ages 8+</small></strong><span><b class="session-label">Gi</b>Tuesday &amp; Thursday · 6:00–7:00 PM</span><span><b class="session-label">No-Gi</b>Wednesday · 6:00–7:00 PM</span></div>
+              <div class="schedule-row"><strong>Towering Titans <small>teens &amp; adults</small></strong><span><b class="session-label">Gi</b>Tuesday &amp; Thursday · 7:00–8:00 PM</span><span><b class="session-label">No-Gi</b>Wednesday · 7:00–8:00 PM</span></div>
             </div>
           </div>
         </div>
@@ -237,7 +236,7 @@
       </section>
     </main>
 
-    <footer class="site-footer"><div class="container"><a class="brand" href="#top"><img class="brand-logo" src="assets/titan-knight-icon.png" alt="Titan Jiujitsu knight emblem" width="72" height="72" /><span><strong>TITAN</strong><small>JIUJITSU</small></span></a><p>Titan Brazilian Jiu-Jitsu LLC — Built for the Titan Community.</p></div></footer>
+    <footer class="site-footer"><div class="container"><a class="brand" href="#top"><img class="brand-logo" src="assets/titan-knight-icon.png" alt="Titan Jiujitsu knight emblem" width="72" height="72" /><span><strong>TITAN</strong><small>JIUJITSU</small></span></a><p>2026 Titan Jiujitsu LLC, Built for the Titan Family</p></div></footer>
     <script src="script.js?v=launch-20260902"></script>
   </body>
 </html>

@@ -1,0 +1,6 @@
+.session-label { display: none; }
+.leader-card-ron img { object-fit: contain; object-position: center; padding: 26px; background: radial-gradient(circle at center, #16476d, #061424 72%); }
+
+@media (max-width: 800px) {
+  .session-label { display: block; color: #63d1ff; font-size: 10px; letter-spacing: .12em; text-transform: uppercase; margin-bottom: 2px; }
+}
