@@ -3,6 +3,16 @@
 .momentum-strip .momentum-track { display: flex; width: max-content; animation: titan-ticker 72s linear infinite; }
 .momentum-strip .momentum-group { flex: 0 0 auto; display: block; white-space: nowrap; animation: none; }
 .momentum-strip .momentum-group::after { content: "✦"; color: #25b9ff; margin: 0 14px; }
+.first-class { background: #f7f9fa; }
+.first-class-steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.first-class-steps article { min-height: 290px; padding: 28px; background: #061424; color: #fff; position: relative; overflow: hidden; }
+.first-class-steps article::after { content: ""; position: absolute; width: 210px; height: 210px; right: -85px; bottom: -115px; border: 1px solid rgba(86, 206, 255, .45); border-radius: 50%; box-shadow: 0 0 0 38px rgba(21, 159, 226, .06); }
+.first-class-steps span { display: block; color: #4fc7ff; font-family: "Barlow Condensed", sans-serif; font-size: 34px; font-weight: 700; line-height: 1; margin-bottom: 54px; }
+.first-class-steps h3 { font-size: 40px; margin-bottom: 15px; position: relative; z-index: 1; }
+.first-class-steps p { color: #c8d7e2; font-size: 14px; margin: 0; position: relative; z-index: 1; }
+.first-class-cta { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-top: 18px; padding: 26px 30px; background: #d6dee5; }
+.first-class-cta .eyebrow { margin-bottom: 6px; }
+.first-class-cta h3 { color: #061424; font-size: 38px; }
 
 @keyframes titan-ticker {
   to { transform: translateX(-50%); }
@@ -10,6 +20,11 @@
 
 @media (max-width: 800px) {
   .session-label { display: block; color: #63d1ff; font-size: 10px; letter-spacing: .12em; text-transform: uppercase; margin-bottom: 2px; }
+  .first-class-steps { grid-template-columns: 1fr; gap: 12px; }
+  .first-class-steps article { min-height: 0; padding: 24px; }
+  .first-class-steps span { margin-bottom: 26px; }
+  .first-class-cta { align-items: flex-start; flex-direction: column; padding: 24px; }
+  .first-class-cta .button { width: 100%; min-height: 56px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
