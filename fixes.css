@@ -1,6 +1,6 @@
 .session-label { display: none; }
 .momentum-strip { white-space: normal; }
-.momentum-strip .momentum-track { display: flex; width: max-content; animation: titan-ticker 24s linear infinite; }
+.momentum-strip .momentum-track { display: flex; width: max-content; animation: titan-ticker 72s linear infinite; }
 .momentum-strip .momentum-group { flex: 0 0 auto; display: block; white-space: nowrap; animation: none; }
 .momentum-strip .momentum-group::after { content: "✦"; color: #25b9ff; margin: 0 14px; }
 
