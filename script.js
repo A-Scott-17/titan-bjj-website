@@ -25,7 +25,7 @@ document.addEventListener('keydown', (event) => {
   }
 });
 
-document.querySelector('#year').textContent = new Date().getFullYear();
+document.querySelector('#year')?.textContent = new Date().getFullYear();
 
 const instagramFeed = document.querySelector('.instagram-feed');
 const instagramEndpoint = document.documentElement.dataset.instagramFeedUrl;
