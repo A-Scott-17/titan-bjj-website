@@ -27,6 +27,13 @@ document.addEventListener('keydown', (event) => {
 
 document.querySelector('#year')?.textContent = new Date().getFullYear();
 
+const today = new Date().getDay();
+const todayCard = document.querySelector(`.calendar-day[data-weekday="${today}"]`);
+if (todayCard) {
+  todayCard.classList.add('is-today');
+  todayCard.setAttribute('aria-current', 'date');
+}
+
 const instagramFeed = document.querySelector('.instagram-feed');
 const instagramEndpoint = document.documentElement.dataset.instagramFeedUrl;
 

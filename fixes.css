@@ -27,9 +27,11 @@
 .calendar-session b { display: block; margin-bottom: 6px; color: #76d8ff; font-size: 9px; letter-spacing: .13em; }
 .calendar-session strong, .calendar-session span { display: block; }
 .calendar-session strong { font-size: 14px; line-height: 1.15; }
-.calendar-session span { margin-top: 5px; color: #d4e1e9; font-size: 11px; line-height: 1.35; }
+.calendar-session span { margin-top: 7px; color: #d4e1e9; font-size: 12px; line-height: 1.35; }
+.calendar-session time { display: inline-block; color: #fff; font-family: "Barlow Condensed", sans-serif; font-size: 18px; font-weight: 700; letter-spacing: .02em; white-space: nowrap; }
 .calendar-session.nogi { border-left-color: #c4d0d8; } .calendar-session.nogi b { color: #d5dfe5; }
-.featured-day { border-color: rgba(84, 202, 255, .8); background: linear-gradient(180deg, rgba(22, 103, 151, .5), rgba(5,25,45,.75)); transform: translateY(-8px); box-shadow: 0 18px 38px rgba(0,0,0,.22); }
+.calendar-day.is-today { border-color: rgba(84, 202, 255, .92); background: linear-gradient(180deg, rgba(22, 103, 151, .68), rgba(5,25,45,.78)); transform: translateY(-8px); box-shadow: 0 18px 38px rgba(0,0,0,.22), 0 0 0 1px rgba(125, 219, 255, .22); }
+.calendar-day.is-today h3::after { content: "TODAY"; display: inline-block; margin-left: 7px; padding: 4px 6px; border-radius: 2px; background: #54caff; color: #061424; font-family: "Open Sans", sans-serif; font-size: 8px; font-weight: 800; letter-spacing: .11em; vertical-align: middle; }
 .homeschool-day { background: linear-gradient(180deg, rgba(94, 78, 28, .38), rgba(5,25,45,.75)); border-color: rgba(255, 226, 107, .48); }
 .calendar-session.homeschool { border-left-color: #ffe26b; } .calendar-session.homeschool b { color: #ffe26b; }
 .calendar-note { margin: 17px 2px 0; color: #fff0a8; font-size: 11px; font-weight: 700; line-height: 1.5; text-transform: uppercase; letter-spacing: .07em; }
@@ -48,7 +50,7 @@
   .first-class-cta { align-items: flex-start; flex-direction: column; padding: 24px; }
   .first-class-cta .button { width: 100%; min-height: 56px; }
   .class-calendar { grid-template-columns: 1fr; gap: 10px; }
-  .calendar-day, .featured-day { min-height: 0; transform: none; }
+  .calendar-day, .calendar-day.is-today { min-height: 0; transform: none; }
   .calendar-day h3 { display: flex; align-items: baseline; gap: 8px; margin-bottom: 12px; }
   .calendar-day h3 small { display: inline; margin: 0; }
   .schedule-booking { align-items: flex-start; flex-direction: column; padding: 27px 24px; }
