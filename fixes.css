@@ -13,7 +13,6 @@
 .first-class-cta { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-top: 18px; padding: 26px 30px; background: #d6dee5; }
 .first-class-cta .eyebrow { margin-bottom: 6px; }
 .first-class-cta h3 { color: #061424; font-size: 38px; }
-.first-class-kit { display: grid; grid-template-columns: .9fr 1.1fr; gap: 38px; align-items: center; margin-top: 18px; padding: 28px 30px; border: 1px solid rgba(21,159,226,.34); background: #fff; box-shadow: 10px 10px 0 rgba(21,159,226,.12); }.first-class-kit .eyebrow { margin-bottom: 6px; }.first-class-kit h3 { color: #061424; font-size: 38px; }.first-class-kit p:not(.eyebrow) { max-width: 390px; margin: 9px 0 0; color: #405363; font-size: 14px; }.first-class-kit ul { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 0; padding: 0; list-style: none; }.first-class-kit li { min-height: 95px; padding: 14px; border-left: 3px solid #25b9ff; background: #f0f5f8; }.first-class-kit b, .first-class-kit span { display: block; }.first-class-kit b { color: #061424; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }.first-class-kit span { margin-top: 7px; color: #405363; font-size: 12px; line-height: 1.35; }
 
 .schedule-intro { max-width: 560px; margin: 18px auto 0; color: #c4d5e1; }
 .calendar-legend { display: flex; justify-content: center; flex-wrap: wrap; gap: 18px; margin: 0 0 18px; font-size: 12px; font-weight: 700; letter-spacing: .08em; }
@@ -57,7 +56,6 @@
   .first-class-steps span { margin-bottom: 26px; }
   .first-class-cta { align-items: flex-start; flex-direction: column; padding: 24px; }
   .first-class-cta .button { width: 100%; min-height: 56px; }
-  .first-class-kit { grid-template-columns: 1fr; gap: 20px; padding: 24px; }.first-class-kit ul { grid-template-columns: 1fr; gap: 8px; }.first-class-kit li { min-height: 0; }.first-class-kit h3 { font-size: 36px; }
   .class-calendar { grid-template-columns: 1fr; gap: 10px; }
   .calendar-day, .calendar-day.is-today { min-height: 0; transform: none; }
   .calendar-day h3 { display: flex; align-items: baseline; gap: 8px; margin-bottom: 12px; }
